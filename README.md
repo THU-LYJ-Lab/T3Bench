@@ -4,25 +4,25 @@
 
 ![](fig/A_cactus_with_pink_flowers.gif)
 
-**T<sup>3</sup>Bench** is the first comprehensive text-to-3D benchmark containing diverse text prompts of three increasing complexity levels that are specially designed for 3D generation. To assess both the subjective quality and the text alignment, we propose two automatic metrics based on multi-view images produced by the 3D contents. The quality metric combines multi-view text-image scores and regional convolution to detect quality and view inconsistency. The alignment metric uses multi-view captioning and Large Language Model (LLM) evaluation to measure text-3D consistency. Both metrics closely correlate with different dimensions of human judgments, providing a paradigm for efficiently evaluating text-to-3D models.
+**T<sup>3</sup>Bench** is the first comprehensive text-to-3D benchmark containing diverse text prompts of three increasing complexity levels that are specially designed for 3D generation. To assess both the subjective quality and the text alignment, we propose two automatic metrics based on multi-view images produced by the 3D contents. The *quality* metric combines multi-view text-image scores and regional convolution to detect quality and view inconsistency. The *alignment* metric uses multi-view captioning and Large Language Model (LLM) evaluation to measure text-3D consistency. Both metrics closely correlate with different dimensions of human judgments, providing a paradigm for efficiently evaluating text-to-3D models.
 
 <img src="https://t3bench.com/static/images/pipeline_v2.png">
 
 
 
-## Evaluation on T<sup>3</sup>Bench
+## Evaluate on T<sup>3</sup>Bench
 
 ### Environment Setup
 
 We adopt the implementation of <a href="https://github.com/threestudio-project/threestudio">ThreeStudio</a> to test the current text-to-3D methods. Please first follow the instructions of ThreeStudio to setup the generation environment.
 
-Then install the following packages used for testing:
+Then install the following packages used for evaluation:
 
 ```shell
 pip install -r requirements.txt
 ```
 
-Note that we use a slightly modified version of ThreeStudio to ensure efficient testing.
+Note that we use a slightly modified version of ThreeStudio to ensure efficient generation.
 
 
 
