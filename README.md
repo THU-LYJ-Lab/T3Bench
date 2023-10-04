@@ -1,4 +1,7 @@
 <img src="https://t3bench.com/static/images/logobig.png" align="center">
+<p align="center">
+    📃 <a href="https://google.com" target="_blank">Paper</a> • 🌐 <a href="https://google.com" target="_blank">Project Page</a>
+</p>
 
 # T<sup>3</sup>Bench: Benchmarking Current Progress in Text-to-3D Generation
 
