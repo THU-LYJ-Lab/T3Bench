@@ -1,0 +1,3 @@
+[submodule "third_party/threestudio"]
+	path = third_party/threestudio
+	url = https://github.com/hyz317/threestudio

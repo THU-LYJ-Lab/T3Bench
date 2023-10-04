@@ -1,0 +1,10 @@
+open3d
+trimesh
+pyrender
+Pillow
+image-reward
+openai
+backoff
+salesforce-lavis
+tqdm
+matplotlib
