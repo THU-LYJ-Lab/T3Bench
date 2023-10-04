@@ -2,7 +2,7 @@
 
 # T<sup>3</sup>Bench: Benchmarking Current Progress in Text-to-3D Generation
 
-<img src="https://t3bench.com/static/images/A%20cactus%20with%20pink%20flowers.gif">
+![](fig/A_cactus_with_pink_flowers.gif)
 
 **T3Bench** is the first comprehensive text-to-3D benchmark containing diverse text prompts of three increasing complexity levels that are specially designed for 3D generation. To assess both the subjective quality and the text alignment, we propose two automatic metrics based on multi-view images produced by the 3D contents. The quality metric combines multi-view text-image scores and regional convolution to detect quality and view inconsistency. The alignment metric uses multi-view captioning and Large Language Model (LLM) evaluation to measure text-3D consistency. Both metrics closely correlate with different dimensions of human judgments, providing a paradigm for efficiently evaluating text-to-3D models.
 
