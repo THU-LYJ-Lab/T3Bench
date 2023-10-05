@@ -61,7 +61,14 @@ python run_eval_alignment.py --group YOUR_GROUP --gpu YOUR_GPU --method YOUR_MET
 ### Citation
 
 ```
-TBD
+@misc{he2023t3bench,
+      title={T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation}, 
+      author={Yuze He and Yushi Bai and Matthieu Lin and Wang Zhao and Yubin Hu and Jenny Sheng and Ran Yi and Juanzi Li and Yong-Jin Liu},
+      year={2023},
+      eprint={2310.02977},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 
