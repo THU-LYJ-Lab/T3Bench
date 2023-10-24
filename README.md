@@ -13,6 +13,11 @@
 
 
 
+## 🔥 Updates
+**[2023/10/24]** We have released mesh results of all prompt sets and methods! Please check <a href="https://drive.google.com/file/d/127Pfy6WI8txJU1DjmdpkR2y8-u5DoPIK/view?usp=share_link">here</a> to download.
+
+
+
 ## Evaluate on T<sup>3</sup>Bench
 
 ### Environment Setup
